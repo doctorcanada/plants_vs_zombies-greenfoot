@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=length
+comment0.target=Text(int)
+comment0.text=\n\ One-arg\ constructor\ to\ specify\ the\ length\ of\ the\ field,\ \n\ with\ text\ added\ later\n\ \n\ @param\ length\ \ \ \ the\ length\ of\ the\ text\ field\ (number\ of\ characters)\n
+comment1.params=text
+comment1.target=Text(java.lang.String)
+comment1.text=\n\ One-arg\ constructor\ that\ calls\ the\ ABOVE\ constructor\ and\n\ then\ immediately\ sets\ the\ text\ to\ the\ specified\ String\ paramter\n\ \n\ @param\ text\ \ \ \ a\ String\ containing\ the\ text\ to\ be\ displayed\ in\ the\ object\n
+comment2.params=text
+comment2.target=void\ setText(java.lang.String)
+comment2.text=\n\ Set\ the\ text\ of\ an\ existing\ Text\ object\ to\ the\ specified\ \n\ String\ parameter\n\ \n\ @param\ text\ \ \ \ a\ String\ containing\ the\ text\ to\ be\ displayed\ in\ the\ object\n
+comment3.params=x\ y
+comment3.target=void\ setLocation(int,\ int)
+comment3.text=\n\ Adapt\ location\ to\ make\ placement\ left-justified.\ Uses\ the\ setLocation\n\ method\ of\ the\ Actor\ superclass.\n
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=FallingSun(double,\ double)
+comment0.text=\n\ Constructor\ for\ initializing\ a\ FallingSun\ object\ at\ the\ specified\ coordinates\n\ \n\ @param\ x\ \ \ \ \ column\ pixel\ for\ starting\ position\n\ @param\ y\ \ \ \ \ row\ pixel\ for\ starting\ position\n
+comment1.params=
+comment1.target=FallingSun()
+comment1.text=\n\ No-arg\ constructor\ for\ FallingSun\n\ TODO\:\ Does\ anything\ actually\ call\ this?\ Better\ check...\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ FallingSun\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3

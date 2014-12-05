@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Peashooter()
+comment0.text=\n\ Initialize\ peashooter\ object\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Peashooter\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ updateImage()
+comment2.text=\n\ Updates\ the\ image\ for\ the\ next\ animation\ frame\ in\ sequence\n
+comment3.params=
+comment3.target=void\ checkForZombiesInSameRow()
+comment3.text=\n\ Defines\ the\ logic\ for\ checking\ to\ see\ if\ a\ Zombie\ is\ in\ the\ same\n\ row\ as\ the\ Peashooter;\ if\ so,\ the\ Peashooter\ will\ start\ shooting\ peas\n\ once\ per\ full\ cycle\ of\ animation\ \n
+comment4.params=
+comment4.target=void\ shootPea()
+comment4.text=\n\ Method\ for\ spawning\ a\ new\ Pea\ object\ to\ be\ "shot"\ at\ a\ Zombie\ in\ the\ same\ row\n\ as\ the\ current\ Peashooter\ object\n
+numComments=5

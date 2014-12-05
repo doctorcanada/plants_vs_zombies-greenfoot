@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SunflowerSeedPacket()
+comment0.text=\n\ When\ the\ seed\ packet\ is\ created,\ it's\ given\ the\ image\ without\ the\ yellow\ selection\ border\n\ ("ready"\ here\ means\ "ready\ to\ be\ selected"\ via\ a\ mouse\ click\ --\ see\ the\ act()\ method)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ SunflowerSeedPacket\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n\ \n\ When\ the\ user\ clicks\ on\ the\ object,\ the\ "click\ status"\ is\ set\ to\ true,\n\ and\ the\ image\ is\ updated\ to\ include\ a\ yellow\ selection\ border\ around\ the\n\ image\ perimeter\ (currently,\ the\ border\ is\ part\ of\ the\ image\ itself)\n
+comment2.params=
+comment2.target=void\ resetImage()
+comment2.text=\n\ resets\ the\ image\ to\ the\ "un-selected"\ version\ of\ the\ image\n
+numComments=3

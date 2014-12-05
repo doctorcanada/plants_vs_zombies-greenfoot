@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lawnmower()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Lawnmower\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ checkForZombie()
+comment2.text=\n\ If\ a\ zombie\ comes\ into\ contact\ with\ a\ lawnmower,\ make\n\ the\ zombie\ die,\ and\ "restart"\ the\ lawnmower\ acceleration\n\ \n\ TODO\:\ Come\ up\ with\ a\ better\ name\ for\ this\ method??\n
+numComments=3

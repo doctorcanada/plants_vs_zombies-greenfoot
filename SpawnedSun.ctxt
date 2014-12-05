@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=sunflower
+comment0.target=SpawnedSun(Sunflower)
+comment0.text=\n\ Constructor\ for\ spawnedSun\n\ TODO\:\ There's\ probably\ too\ much\ going\ on\ here\ for\ a\ constructor\n\ \n\ @param\ sunflower\ \ \ \ \ which\ sunflower\ object\ is\ spawning\ the\ sun\ object\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ SpawnedSun\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2

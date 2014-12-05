@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BasicZombie()
+comment0.text=\n\ Initialize\ BasicZombie\ object\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ BasicZombie\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ updateImage()
+comment2.text=\n\ Updates\ the\ object's\ image\ to\ the\ next\ animation\ frame\ in\ sequence\n
+numComments=3

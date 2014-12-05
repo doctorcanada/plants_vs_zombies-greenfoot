@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Sun()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Sun\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ moveToTray()
+comment2.text=\n\ Provides\ the\ logic\ for\ moving\ a\ clicked\ Sun\ object\n\ into\ the\ scoreboard\ (i.e.,\ the\ "tray")\n
+numComments=3

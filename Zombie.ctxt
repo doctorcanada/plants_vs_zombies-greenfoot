@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Zombie()
+comment0.text=\n\ Initialize\ the\ zombie,\ whatever\ type\ it\ is\n
+comment1.params=
+comment1.target=void\ checkForHit()
+comment1.text=\n\ Method\ for\ detecting\ whether\ a\ Pea\ hit\ the\ current\ Zombie\n
+comment2.params=
+comment2.target=void\ die()
+comment2.text=\n\ Method\ for\ initiating\ the\ "death\ sequence"\ for\ the\ current\ Zombie\n\ (death\ animation,\ object\ removal,\ etc.)\n
+comment3.params=
+comment3.target=boolean\ getIsDying()
+comment3.text=\n\ Check\ to\ see\ if\ the\ current\ Zombie\ is\ dying\n\ \n\ @return\ status\ of\ whether\ the\ current\ Zombie\ is\ in\ its\ "death\ sequence"\ or\ not\n
+comment4.params=
+comment4.target=void\ animateDeath()
+comment4.text=\n\ Defines\ what\ happens\ during\ the\ Zombie's\ "death\ sequence"\n
+numComments=5
